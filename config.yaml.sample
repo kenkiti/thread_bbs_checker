@@ -1,0 +1,9 @@
+gmail_address: youraddress@gmail.com
+password: password
+to_address: yourmobile@docomo.ne.jp
+wait: 300 
+thread:
+- Path: http://news21.2ch.net/test/read.cgi/slot/1190194691/
+  Name: ehm.mesh.ad.jp
+- Path: http://news21.2ch.net/test/read.cgi/hoge/1234567890/
+- Path: http://news21.2ch.net/test/read.cgi/huga/7777777777/
